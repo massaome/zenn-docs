@@ -104,7 +104,7 @@ module.exports = function(api) {
   api.cache(true);
   return {
     presets: ['babel-preset-expo'],
-    plugins: [["inline-import", { "extensions": [".sql"] }]] // <-- add this
+    plugins: [["inline-import", { "extensions": [".sql"] }]]
   };
 };
 ```
@@ -297,11 +297,6 @@ export function DrizzleProvider({ children }: DrizzleProviderProps) {
 - **テーブル構造の可視化**: スキーマとリレーションを図で確認
 - **データの参照・編集**: GUIでのCRUD操作
 - **リアルタイム更新**: アプリでの変更がリアルタイムで反映
-
-:::message alert
-Drizzle Studioは開発時のみの使用を想定しており、本番環境では無効化されます。
-:::
-
 
 ## 📋 まとめ
 
