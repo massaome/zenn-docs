@@ -2,7 +2,7 @@
 title: "Expo SQLiteとDrizzle ORMで始めるReact Nativeのローカルデータベース開発"
 emoji: "🗄️"
 type: "tech"
-topics: ["react-native", "expo", "sqlite", "drizzle", "typescript"]
+topics: ["reactnative", "expo", "sqlite", "drizzle", "typescript"]
 published: true
 published_at: 2025-11-17 08:00
 ---
