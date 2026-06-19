@@ -2,7 +2,7 @@
 title: "Agent DeviceでAIエージェントにiOSアプリを操作させてみた"
 emoji: "📱"
 type: "tech"
-topics: ["agentdevice", "ai", "ios", "android", "mcp"]
+topics: ["reactnative", "expo", "agentdevice", "ai", "mcp"]
 published: true
 published_at: 2026-06-20 08:00
 ---
